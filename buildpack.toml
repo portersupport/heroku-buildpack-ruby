@@ -1,7 +1,7 @@
 api = "0.2"
 
 [buildpack]
-id = "heroku/ruby"
+id = "porter/ruby"
 version = "0.1.4"
 name = "Ruby"
 homepage = "https://github.com/heroku/heroku-buildpack-ruby"
